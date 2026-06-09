@@ -97,7 +97,7 @@ streamlit run app.py
 
 ##  Author
 
-**Nikhil Tiwari**
+**Sanjeev Kumar Yadav**
 MCA Student | AI/ML Enthusiast
 
 ---
