@@ -71,4 +71,4 @@ Sanjeev Kumar Yadav
 MCA Student | AI/ML Enthusiast
 ---
 Note
-This project is built for learning and demonstration purposes of NLP-based document similarity systems.
+This project is built for learning and demonstration purposes of NLP-based document similarity systems..
